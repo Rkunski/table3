@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+table{
+  width: 80%;
+  height: auto;
+  font-family: 'Raleway' ;
+  border: 2px solid black;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 200px;
+  object-position: center;
+}
+td{
+  border: 2px solid black;
+  padding: 5px;
+}
+#orange{
+  color: white;
+  background: orange;
+}
+#blue{
+  color: white;
+  background: blue;
+}
+#green{
+  color: white;
+  background: green;
+}
